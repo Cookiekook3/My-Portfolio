@@ -1,0 +1,12 @@
+﻿  FarkleGame.cpp
+  GamePlay.cpp
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(20,9): warning C4101: 'score': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(20,27): warning C4101: 'rerollDice': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(20,16): warning C4101: 'totalDice': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(17,9): warning C4101: 'dice': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(18,18): warning C4101: 'players': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(20,51): warning C4101: 'totalScore': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(20,39): warning C4101: 'firstScore': unreferenced local variable
+D:\SNHU Work\IT-312\FarkleGame\FarkleGame\GamePlay.cpp(303,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  FarkleGame.vcxproj -> D:\SNHU Work\IT-312\FarkleGame\x64\Debug\FarkleGame.exe
